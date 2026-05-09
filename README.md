@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-srinivasan-33b974223/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arun-sr07)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arunsrinivasan003)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://arun-srinivasan-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-porfolio-steel.vercel.app/)
 
 ---
 
@@ -93,6 +93,6 @@ I am an **AI Engineer** specializing in the architecture and optimization of **L
 Got a project in mind or just want to chat about AI?
 
 📧 [arunsrinivasan003@gmail.com](mailto:arunsrinivasan003@gmail.com)
-🔗 [Portfolio Website](https://arun-srinivasan-portfolio.vercel.app/)
+🔗 [Portfolio Website](https://personal-porfolio-steel.vercel.app/)
 
 *"Orchestrating Scalable and Reliable AI Systems."*
