@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arun Srinivasan
 
-### 🧠 AI Engineer | LLM Architect | Agentic AI Specialist
+### AI Engineer | LLM Architect | Agentic AI Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-srinivasan-33b974223/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arun-sr07)
@@ -9,18 +9,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am an **AI Engineer** specializing in the architecture and optimization of **LLM-based systems**. I design end-to-end pipelines involving retrieval, embeddings, and reasoning workflows, with a strong focus on scalability, latency, and reliability in production environments.
 
-- 🎓 **B.Tech CSE** @ VIT (Vellore Institute of Technology)
-- 🏢 Currently working as a **Software Engineer at Prodapt**, building autonomous workflow agents.
-- 💡 Passionate about **Agentic AI, Multi-Agent Orchestration, and RAG**.
-- ☁️ **AWS Certified Cloud Practitioner** & **Oracle Gen-AI Professional**.
+- **B.Tech CSE** @ VIT (Vellore Institute of Technology)
+- Currently working as a **Software Engineer at Prodapt**, building autonomous workflow agents.
+- Passionate about **Agentic AI, Multi-Agent Orchestration, and RAG**.
+- **AWS Certified Cloud Practitioner** & **Oracle Gen-AI Professional**.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Artificial Intelligence & Machine Learning**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,7 +45,7 @@ I am an **AI Engineer** specializing in the architecture and optimization of **L
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### **Software Engineer | Prodapt** (July 2025 – Present)
 - Implemented **LLM context generation pipelines** for C# codebases, reducing hallucinations by **30%**.
@@ -59,7 +59,7 @@ I am an **AI Engineer** specializing in the architecture and optimization of **L
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### 🔹 [AI-Powered Meeting Scheduler](https://github.com/arun-sr07/Meeting-Scheduler)
 *Multi-Agent System | FastMCP | LlamaIndex | WhatsApp API*
@@ -78,7 +78,7 @@ I am an **AI Engineer** specializing in the architecture and optimization of **L
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arun-sr07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arun's GitHub stats" />
@@ -88,7 +88,7 @@ I am an **AI Engineer** specializing in the architecture and optimization of **L
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
 Got a project in mind or just want to chat about AI?
 
